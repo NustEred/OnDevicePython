@@ -1,3 +1,7 @@
+import pandas as pd
+
+pd.DataFrame()
+
 # "Hello, Python!!!"
 print("Hello, Python!!!")
 
